@@ -1,7 +1,7 @@
 # 🚀 CI/CD Flask REST API Service
 
 <p align="center">
-   <img src="assets/Screenshot%202026-03-23%20225601.png" alt="CI/CD Project Header" width="100%"/>
+   <img src="assets/Screenshot%202026-03-23%20225616.png" alt="CI/CD Project Header" width="100%"/>
 </p>
 
 <p align="center">
@@ -54,8 +54,7 @@ Configuring the IBM Cloud environment and ensuring secure access to the containe
 Deploying the microservices using IBM Code Engine and monitoring the rollout.
 
 <p align="center">
-   <img src="assets/Screenshot%202026-03-23%20223937.png" alt="Application List" width="48%"/>
-   <img src="assets/Screenshot%202026-03-23%20225616.png" alt="Instance Metrics" width="48%"/>
+   <img src="assets/Screenshot%202026-03-23%20223937.png" alt="Application List" width="100%"/>
 </p>
 
 
